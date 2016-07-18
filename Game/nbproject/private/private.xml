@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/GameFromServer/GameArea.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/gameplay/Battlefield.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/gameplay/Player.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/windows/MyPanel.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/DataToServer/InfoAboutPlayer.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/Client/GameClient.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/Enums/Direction.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/windows/MyFrame.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/Enums/Bonuses.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/Enums/OneField.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/LoginFromServer/DefaultOptions.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/GameFromServer/StartNewGame.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/windows/Main.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/LoginFromServer/PlayerBeginingData.java</file>
+            <file>file:/Users/ArkadiuszSadowski/Desktop/Game/src/GameFromServer/GameInAction.java</file>
+        </group>
+    </open-files>
+</project-private>
